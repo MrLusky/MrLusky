@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou o Nicollas, atualmente cursista de Desenvolvimento de Sistemas pela ETEC Zona Leste com foco em programação e criação de soluções tecnológicas. Utilizo este espaço para compartilhar projetos, explorar novas tecnologias e colaborar em iniciativas de software.
+Olá, sou o Lucas Daniel, atualmente cursista de Desenvolvimento de Sistemas pela ETEC Zona Leste com foco em programação e criação de soluções tecnológicas. Utilizo este espaço para compartilhar projetos, explorar novas tecnologias e colaborar em iniciativas de software.
 
 
 ## 🌐 Socials:
